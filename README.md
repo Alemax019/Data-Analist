@@ -54,4 +54,4 @@ Agradecimiento a nuestros instructores y compañeros que nos aportan deferentes 
 Todo nuestro proyecto se encuentra en 
 * Git link(https://github.com/Alemax019/Data_Analyst)
 * Google Drive(https://drive.google.com/drive/folders/1cArlW087WOuUAHjqVpC8HMOjtkEquTra?usp=share_link)
-* LinkedIn(https://www.linkedin.com/in/cristiangarcia019)
+* LinkedIn(https://www.linkedin.com/in/alemax019/)
