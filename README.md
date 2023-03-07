@@ -9,6 +9,8 @@
 ***
 Para este proyecto de Data analyst nos propusieron buscar información sobre cursos virtuales bajo las plataformas Coursera, udemy y edx, la importancia este proyecto es validar la importancia de las plataformas online para la realización de cursos o estudios para esto nos entregaron Data sets con información correspondiente a estas plataformas
 
+
+
 ## Tecnologias
 ***
 Una Lista de las tecnologias utilizadas:
@@ -54,4 +56,7 @@ Agradecimiento a nuestros instructores y compañeros que nos aportan deferentes 
 Todo nuestro proyecto se encuentra en 
 * Git link(https://github.com/Alemax019/Data_Analyst)
 * Google Drive(https://drive.google.com/drive/folders/1cArlW087WOuUAHjqVpC8HMOjtkEquTra?usp=share_link)
-* LinkedIn(https://www.linkedin.com/in/alemax019/)
+
+Contacto:  <a href="https://www.linkedin.com/in/alemax019/"><img alt="Linkedin" src="https://img.shields.io/badge/Linkedin-0077B5?style=flat&logo=linkedin&logoColor=white"></a>  
+
+Saludos!
